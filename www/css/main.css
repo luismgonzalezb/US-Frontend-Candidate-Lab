@@ -194,15 +194,15 @@ textarea {
    Default Screen styles.
    ========================================================================== */
 
-body { 
-    background: url(../img/woodgrain.jpg) repeat; 
+body {
+    background: url(../img/woodgrain.jpg) repeat;
     font-family: "Helvetica", "Arial", sans-serif;
-    height: 600px; 
-    width: 888px; 
+    height: 600px;
+    width: 888px;
 }
 
-img { 
-    position: absolute; 
+img {
+    position: absolute;
 }
 #title {
     left: 17px;
@@ -224,7 +224,7 @@ img {
     bottom: 0;
     left: 0;
     padding: 27px 129px 29px 29px;
-    position: absolute;
+    position: fixed;
     width: 579px;
     z-index: 3;
 }
